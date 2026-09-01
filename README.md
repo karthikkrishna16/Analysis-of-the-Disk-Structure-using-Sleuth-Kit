@@ -72,5 +72,23 @@ icat.exe -o 2048 C:\forensics\disk.dd 6 > C:\forensics\image.jpg
 ## OUTPUT:
 Disk Structure Analysis Results
 
+<img width="625" height="410" alt="Screenshot 2026-08-21 223235" src="https://github.com/user-attachments/assets/813342ed-5bbf-4c48-809d-6f3ed37a370c" />
+<img width="518" height="461" alt="Screenshot 2026-08-21 223306" src="https://github.com/user-attachments/assets/61381bc3-9e05-4126-ba7c-428d766352e5" />
+<img width="637" height="462" alt="Screenshot 2026-08-21 223327" src="https://github.com/user-attachments/assets/5933bdf2-d0a4-4bc0-b0cc-a0680fd172f1" />
+<img width="637" height="458" alt="Screenshot 2026-08-21 223346" src="https://github.com/user-attachments/assets/f65304bb-62b9-4d8d-bc8a-e05ed70916ec" />
+<img width="629" height="456" alt="Screenshot 2026-08-21 223403" src="https://github.com/user-attachments/assets/190c2f0d-1944-4a75-8187-7dd4f9c98724" />
+<img width="529" height="442" alt="Screenshot 2026-08-21 223421" src="https://github.com/user-attachments/assets/45c273b9-7295-4c88-bf0b-45b6910de729" />
+<img width="487" height="451" alt="Screenshot 2026-08-21 223436" src="https://github.com/user-attachments/assets/613ec996-de82-4630-93c2-83a2a160dfe8" />
+<img width="422" height="450" alt="Screenshot 2026-08-21 223451" src="https://github.com/user-attachments/assets/31637091-c05a-44a8-a752-600eab16a8dd" />
+<img width="423" height="217" alt="Screenshot 2026-08-21 223508" src="https://github.com/user-attachments/assets/647350a4-9cb1-42c0-bc3e-a508e4dab322" />
+
+
+
+
+
+
+
+
+
 ## RESULT:
 The analysis was performed successfully using Sleuth Kit, and the disk structure was understood in detail.
